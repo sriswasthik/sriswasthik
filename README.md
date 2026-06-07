@@ -2,7 +2,7 @@
 
 ## 🎓 Student | 💻 Aspiring CS Student| 🚀 Builder
 
-📍 [Hyderabad] · 📧 [padmasriswasthik@gmail.com] · 🌐 [sriswasthik.vercel.app]
+📍 Hyderabad · 📧 padmasriswasthik@gmail.com · 🌐 sriswasthik.vercel.app
 
 <!-- ### 🔭 I'm currently working on
 - [Project name] - [brief description]
