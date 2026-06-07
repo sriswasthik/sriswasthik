@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yoursriswasthike&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?sriswasthik=sriswasthike&show_icons=true&theme=radical)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sriswasthik)
