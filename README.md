@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm <strong>Padma Sri Swasthik</strong>
+Hi I'm <strong>Padma Sri Swasthik</strong>
 </h1>
 
 <h3 align="center">
@@ -24,7 +24,7 @@ Building modern web experiences with beautiful UI, scalable architecture, and me
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 ```yaml
 Name: Padma Sri Swasthik
@@ -43,7 +43,7 @@ Email: sriswasthik006@gmail.com
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Frontend
 
@@ -77,12 +77,12 @@ Email: sriswasthik006@gmail.com
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=sriswasthik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
 />
 
 <img
 height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sriswasthik&theme=transparent&hide_border=true"
 />
 
 </p>
@@ -91,7 +91,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=sriswasthik&theme=github-dark&hide_border=true"
 />
 
 </p>
@@ -103,25 +103,25 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAM
 <p align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"
+src="https://github-profile-trophy.vercel.app/?username=sriswasthik&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"
 />
 
 </p>
 
 ---
 
-# ⚡ Featured Projects
+#  Featured Projects
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| 🚀 Invoice Generator | Professional invoice & quotation platform | React • Node.js • MongoDB |
-| 💊 Smart Citizen Navigator | Government service platform | React • Firebase |
-| 🌐 Portfolio Website | Premium animated portfolio | Next.js • Framer Motion |
-| 🎨 UI Components | Reusable modern UI library | React • Tailwind |
+| Invoice Generator | Professional invoice & quotation platform | React • Node.js • MongoDB |
+| Smart Citizen Navigator | Government service platform | React • Firebase |
+| Portfolio Website | Premium animated portfolio | Next.js • Framer Motion |
+| UI Components | Reusable modern UI library | React • Tailwind |
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Advanced React Patterns
 - System Design
@@ -132,38 +132,38 @@ src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algo
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- ✅ Contribute to Open Source
-- 🚀 Build SaaS Products
-- 💼 Grow Lynq Studios
-- 🌍 Collaborate Globally
-- ⭐ Reach 1000+ GitHub Stars
-- 📚 Learn Cloud Infrastructure
+- Contribute to Open Source
+- Build SaaS Products
+- Grow Lynq Studios
+- Collaborate Globally
+- Reach 1000+ GitHub Stars
+- Learn Cloud Infrastructure
 
 ---
 
-# 📈 Coding Activity
+# Coding Activity
 
 <p align="center">
 
-<img
+<!-- <img
 src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=transparent&hide_border=true"
-/>
+/> -->
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sriswasthik">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/sriswasthik">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -171,11 +171,11 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="sriswasthik.vercel.app">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:sriswasthik006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -185,7 +185,7 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sriswasthik&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
 </p>
 
