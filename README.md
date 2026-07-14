@@ -2,13 +2,13 @@
 <!--                    PREMIUM GITHUB PROFILE                  -->
 <!-- ========================================================= -->
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
     <img alt="Padma Sri Swasthik GitHub Banner" src="./dark.svg" width="100%">
   </picture>
-</p>
+</p> -->
 
 <h1 align="center">
 Hi I'm <strong>Padma Sri Swasthik</strong>
