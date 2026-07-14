@@ -1,25 +1,202 @@
-# 👋 Hi, I'm Padma Sri Swasthik
+<!-- ========================================================= -->
+<!--                    PREMIUM GITHUB PROFILE                  -->
+<!-- ========================================================= -->
 
-## 🎓 Student | 💻 Aspiring CS Student| 🚀 Builder
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Padma Sri Swasthik GitHub Banner" src="./dark.svg" width="100%">
+  </picture>
+</p>
 
-📍 Hyderabad · 📧 padmasriswasthik@gmail.com · 🌐 sriswasthik.vercel.app
+<h1 align="center">
+Hi 👋 I'm <strong>Padma Sri Swasthik</strong>
+</h1>
 
-<!-- ### 🔭 I'm currently working on
-- [Project name] - [brief description]
-- [Another project] -->
+<h3 align="center">
+Frontend Engineer • Full Stack Developer • UI/UX Designer
+</h3>
 
-### 🌱 I'm currently learning
-- Frontend
-- Basic Backend Structures
+<p align="center">
+Building modern web experiences with beautiful UI, scalable architecture, and meaningful user experiences.
+</p>
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?sriswasthik=sriswasthik&show_icons=true&theme=radical)
+# 🚀 About Me
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sriswasthik)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/PadmaSwasthik)
+```yaml
+Name: Padma Sri Swasthik
+Location: Hyderabad, India
+Education: B.Tech Computer Science & Engineering
+Role: Frontend Engineer
+Company: Lynq Studios
+Focus:
+  - Modern Web Applications
+  - UI/UX Design
+  - Open Source
+  - AI Powered Applications
+Portfolio: sriswasthik.vercel.app
+Email: sriswasthik006@gmail.com
+```
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,npm" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+/>
+
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"
+/>
+
+</p>
+
+---
+
+# ⚡ Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🚀 Invoice Generator | Professional invoice & quotation platform | React • Node.js • MongoDB |
+| 💊 Smart Citizen Navigator | Government service platform | React • Firebase |
+| 🌐 Portfolio Website | Premium animated portfolio | Next.js • Framer Motion |
+| 🎨 UI Components | Reusable modern UI library | React • Tailwind |
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Patterns
+- System Design
+- Cloud Architecture
+- Docker & Kubernetes
+- AI Integrations
+- Performance Optimization
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Contribute to Open Source
+- 🚀 Build SaaS Products
+- 💼 Grow Lynq Studios
+- 🌍 Collaborate Globally
+- ⭐ Reach 1000+ GitHub Stars
+- 📚 Learn Cloud Infrastructure
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=transparent&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/YOUR_X">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *"Design. Develop. Deploy. Repeat."*
+
+</p>
+
+<!-- ========================================================= -->
+<!--               END OF README                               -->
+<!-- ========================================================= -->
