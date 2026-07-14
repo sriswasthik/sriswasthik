@@ -42,42 +42,14 @@ Email: sriswasthik006@gmail.com
 
 ---
 
-#  Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
-</p>
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,npm" />
-</p>
-
----
-
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
-<img
+<!-- <img
 height="170"
 src="https://github-readme-stats.vercel.app/api?username=sriswasthik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-/>
+/> -->
 
 <img
 height="170"
