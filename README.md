@@ -31,7 +31,6 @@ Name: Padma Sri Swasthik
 Location: Hyderabad, India
 Education: B.Tech Computer Science & Engineering
 Role: Frontend Engineer
-Company: Lynq Studios
 Focus:
   - Modern Web Applications
   - UI/UX Design
