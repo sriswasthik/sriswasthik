@@ -98,15 +98,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sriswasthik&
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=sriswasthik&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"
-/>
-
-</p>
 
 ---
 
@@ -121,39 +112,6 @@ src="https://github-profile-trophy.vercel.app/?username=sriswasthik&theme=algoli
 
 ---
 
-# Currently Learning
-
-- Advanced React Patterns
-- System Design
-- Cloud Architecture
-- Docker & Kubernetes
-- AI Integrations
-- Performance Optimization
-
----
-
-# 2026 Goals
-
-- Contribute to Open Source
-- Build SaaS Products
-- Grow Lynq Studios
-- Collaborate Globally
-- Reach 1000+ GitHub Stars
-- Learn Cloud Infrastructure
-
----
-
-# Coding Activity
-
-<p align="center">
-
-<!-- <img
-src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=transparent&hide_border=true"
-/> -->
-
-</p>
-
----
 
 #  Connect With Me
 
@@ -193,7 +151,7 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_
 
 <p align="center">
 
-### ⭐ *"Design. Develop. Deploy. Repeat."*
+### *"Design. Develop. Deploy. Repeat."*
 
 </p>
 
