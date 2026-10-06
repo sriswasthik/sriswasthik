@@ -1,131 +1,57 @@
-<!-- ========================================================= -->
-<!--                    PREMIUM GITHUB PROFILE                  -->
-<!-- ========================================================= -->
-
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Padma Sri Swasthik GitHub Banner" src="./dark.svg" width="100%">
-  </picture>
-</p> -->
-
-<h1 align="center">
-Hi I'm <strong>Padma Sri Swasthik</strong>
-</h1>
-
-<h3 align="center">
-Frontend Engineer • Full Stack Developer • UI/UX Designer
-</h3>
+<h1 align="center">Padma Sri Swasthik</h1>
 
 <p align="center">
-Building modern web experiences with beautiful UI, scalable architecture, and meaningful user experiences.
+  Co-Founder & Frontend Developer at <a href="https://wearevistaar.in">Vistaar</a> &nbsp;|&nbsp; B.Tech CSE Student &nbsp;|&nbsp; Full-Stack Developer
+</p>
+
+<p align="center">
+  <a href="https://sriswasthik.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/sriswasthik">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://wearevistaar.in">Vistaar</a>
 </p>
 
 ---
 
-#  About Me
+## About
 
-```yaml
-Name: Padma Sri Swasthik
-Location: Hyderabad, India
-Education: B.Tech Computer Science & Engineering
-Role: Frontend Engineer
-Focus:
-  - Modern Web Applications
-  - UI/UX Design
-  - Open Source
-  - AI Powered Applications
-Portfolio: sriswasthik.vercel.app
-Email: sriswasthik006@gmail.com
-```
+I'm Sonu, a frontend-focused full-stack developer and UI/UX designer from Telangana, India. I co-founded **Vistaar**, a digital agency that helps businesses with branding, UI/UX design, web development and AI automations.
 
----
+Alongside that, I'm a third-year B.Tech Computer Science student at Malla Reddy College of Engineering. I came into CSE through lateral entry after a Diploma in Mechanical Engineering, so I enjoy building things that are practical, clean and actually used.
 
-# GitHub Analytics
+## What I Work On
 
-<p align="center">
+- Designing and building clean, minimal, production-ready web interfaces
+- Full-stack web applications with React and Node.js
+- Client websites, landing pages and brand systems through Vistaar
+- AI-powered workflows, automations and chatbots
 
-<!-- <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=sriswasthik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-/> -->
+## Tech Stack
 
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=sriswasthik&theme=transparent&hide_border=true"
-/>
+**Frontend:** React, Vite, Tailwind CSS, JavaScript, HTML, CSS
+**Backend:** Node.js, Express, Prisma
+**Databases:** MongoDB, SQLite
+**Tools:** Git, GitHub, Vercel, Postman, Figma
 
-</p>
+## Featured Projects
 
-<p align="center">
+### [FinTrack](https://github.com/sriswasthik/fintrack)
+A personal finance tracker and dashboard built for Indian users. Imports UPI and bank statements (including password-protected PDFs), auto-categorizes transactions by Indian merchants, tracks person-to-person payments and shows totals in INR across custom date ranges.
+`React` `Vite` `Node.js` `Express`
 
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=sriswasthik&theme=github-dark&hide_border=true"
-/>
+### Form Builder
+A Tally/Typeform-style form builder with a drag-and-drop editor, shareable forms and live response analytics. Currently adding richer design customization, more field types and AI features.
+`React` `Node.js`
 
-</p>
+### Marine Debris Detection
+A hackathon project for AI-powered marine waste identification and geospatial monitoring. I'm building the frontend: a minimal, clean interface for detection results and mapping.
+`React` `Hackathon`
 
----
+## Currently
 
+- Building client projects at Vistaar
+- Shipping the Form Builder sprint by sprint
+- Open to frontend and full-stack internship opportunities
 
----
+## Get in Touch
 
-#  Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| Invoice Generator | Professional invoice & quotation platform | React • Node.js • MongoDB |
-| Smart Citizen Navigator | Government service platform | React • Firebase |
-| Portfolio Website | Premium animated portfolio | Next.js • Framer Motion |
-| UI Components | Reusable modern UI library | React • Tailwind |
-
----
-
-
-#  Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sriswasthik">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/sriswasthik">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/YOUR_X">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="sriswasthik.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
-<a href="mailto:sriswasthik006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sriswasthik&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-### *"Design. Develop. Deploy. Repeat."*
-
-</p>
-
-<!-- ========================================================= -->
-<!--               END OF README                               -->
-<!-- ========================================================= -->
+The best way to reach me is through [LinkedIn](https://linkedin.com/in/sriswasthik) or my [portfolio](https://sriswasthik.vercel.app).
