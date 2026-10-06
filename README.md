@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sriswasthik.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://sriswasthik.tecg">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/sriswasthik">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://wearevistaar.in">Vistaar</a>
 </p>
@@ -14,7 +14,7 @@
 
 ## About
 
-I'm Sonu, a frontend-focused full-stack developer and UI/UX designer from Telangana, India. I co-founded **Vistaar**, a digital agency that helps businesses with branding, UI/UX design, web development and AI automations.
+I'm Sri Swasthik, a frontend-focused full-stack developer and UI/UX designer from Telangana, India. I co-founded **Vistaar**, a digital agency that helps businesses with branding, UI/UX design, web development and AI automations.
 
 Alongside that, I'm a third-year B.Tech Computer Science student at Malla Reddy College of Engineering. I came into CSE through lateral entry after a Diploma in Mechanical Engineering, so I enjoy building things that are practical, clean and actually used.
 
@@ -42,10 +42,6 @@ A personal finance tracker and dashboard built for Indian users. Imports UPI and
 A Tally/Typeform-style form builder with a drag-and-drop editor, shareable forms and live response analytics. Currently adding richer design customization, more field types and AI features.
 `React` `Node.js`
 
-### Marine Debris Detection
-A hackathon project for AI-powered marine waste identification and geospatial monitoring. I'm building the frontend: a minimal, clean interface for detection results and mapping.
-`React` `Hackathon`
-
 ## Currently
 
 - Building client projects at Vistaar
@@ -54,4 +50,4 @@ A hackathon project for AI-powered marine waste identification and geospatial mo
 
 ## Get in Touch
 
-The best way to reach me is through [LinkedIn](https://linkedin.com/in/sriswasthik) or my [portfolio](https://sriswasthik.vercel.app).
+The best way to reach me is through [LinkedIn](https://linkedin.com/in/sriswasthik) or my [portfolio](https://sriswasthik.tech).
